@@ -5,10 +5,12 @@ from re import search
 from time import sleep, strftime, strptime
 from typing import TypedDict
 
-import undetected_chromedriver
+from selenium import webdriver
 from selenium.common.exceptions import (NoSuchElementException,
                                         StaleElementReferenceException)
 from selenium.webdriver.common.by import By
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.remote.webelement import WebElement
 from typing_extensions import NotRequired
@@ -25,10 +27,18 @@ class ShowType(TypedDict):
 
 class Shows:
     def __init__(self, driver: WebDriver | None = None):
-        if driver:
-            self.driver = driver
-        else:
-            self.driver = undetected_chromedriver.Chrome(use_subprocess=False)
+        profile = popen('ls ~/.mozilla/firefox/ | grep "default"').read().split("\n")[0]
+        user = popen("whoami").read()[0:-1]
+        options = Options()
+        options.set_preference(
+            "profile", "/home/" + user + "/.mozilla/firefox/" + profile
+        )
+        self.driver = webdriver.Firefox(
+            service=Service(
+                executable_path="/usr/bin/geckodriver", log_path="/dev/null"
+            ),
+            options=options,
+        )
         self.driver.maximize_window()
         with open("shows.json", encoding="utf-8") as file:
             self.shows: dict[str, ShowType] = load(file)
