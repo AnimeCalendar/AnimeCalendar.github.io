@@ -48,7 +48,7 @@
   "ziMS": {
     "title": "Ninjala",
     "day": 5,
-    "time": "3:30 PM",
+    "time": "3:00 PM",
     "cover": "ninjala-c19a7f2bbe",
     "streams": {
       "Apple": "https://apple.co/412i8h4",
@@ -369,7 +369,8 @@
     "cover": "neko-to-ryuu-c63710d9490e484994175826ae724954",
     "streams": {
       "Apple": "https://apple.co/4ga2GsF",
-      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378117"
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378117",
+      "YouTube": "https://www.youtube.com/playlist?list=PLW7w7NrGJ9As"
     }
   },
   "o6NM": {
@@ -393,20 +394,24 @@
     }
   },
   "DE3F": {
-    "title": "Lv999 no Murabito",
+    "title": "The Villager of Level 999",
     "day": 3,
-    "time": "8:00 AM",
+    "time": "9:00 AM",
     "cover": "lv999-no-murabito-488ee582908da2d4307199070544e164",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4xYCebZ",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00371878/the-villager-of-level-999"
+    }
   },
   "s8un": {
-    "title": "Hanazakari no Kimitachi e 2nd Season",
+    "title": "Hana-Kimi",
     "day": 3,
-    "time": "8:30 AM",
+    "time": "9:00 AM",
     "cover": "hanazakari-no-kimitachi-e-2nd-season-9377744187cec39623833ea5747bbf93",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4v8GcvK",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00365568/hana-kimi"
+    }
   },
   "oEiG": {
     "title": "Pie no Mi",
@@ -417,36 +422,49 @@
     "status": true
   },
   "iE9C": {
-    "title": "Otome Kaiju Caramelise",
+    "title": "KAIJU GIRL CARAMELISE",
     "day": 4,
-    "time": "9:28 AM",
+    "time": "10:30 AM",
     "cover": "otome-kaijuu-caramelise-320f2fe90aa24c372cb113ce588232b1",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4vfuYG6",
+      "BiliBili": "https://www.bilibili.tv/en/media/2411889",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378081/kaiju-girl-caramelise",
+      "YouTube": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl38hoyHQ6-C5HAQ9lJ5jkdG"
+    }
   },
   "XLe2": {
-    "title": "BanG Dream! Yume\u221eMita",
+    "title": "BanG Dream! YUMEMITA",
     "day": 4,
-    "time": "7:00 AM",
+    "time": "7:01 AM",
     "cover": "bang-dream-yume-mita-0bd65529c56c2a4f7724be33c85d317d",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4wjey0c",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00379424",
+      "YouTube": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0ctL2jtLzMpMPtAYfkdRVO"
+    }
   },
   "KB1p": {
-    "title": "Reiwa no Dara-san",
+    "title": "Dara-san of the Reiwa Era",
     "day": 4,
-    "time": "5:30 AM",
+    "time": "5:31 AM",
     "cover": "reiwa-no-dara-san-ae77fc059c370ee0d7c8bf637695b84d",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/3QzCwVZ",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00377933/dara-san-of-the-reiwa-era"
+    }
   },
   "O5lv": {
-    "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+    "title": "The Exiled Heavy Knight Knows How to Game the System",
     "day": 4,
-    "time": "8:26 AM",
+    "time": "9:00 AM",
     "cover": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru-dd11ec1143ac41fd56a9a6ff34e8a5e3",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4vVpHo0",
+      "BiliBili": "https://www.bilibili.tv/en/media/2411725",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378018/the-exiled-heavy-knight-knows-how-to-game-the-system",
+      "YouTube": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3yq1oZEC8iNCwgMsg0NmIZ"
+    }
   },
   "qoZ9": {
     "title": "Chainsmoker Cat",
@@ -454,80 +472,78 @@
     "time": "9:00 AM",
     "cover": "yani-neko-cde0608aa51a18d0190e932c985c86ca",
     "streams": {
-      "Netflix": "https://www.netflix.com/title/82760630"
+      "Netflix": "https://www.netflix.com/title/82760630",
+      "OceanVeil": "https://oceanveil.net/anime_titles/461",
+      "YouTube": "https://www.youtube.com/playlist?list=PLeab-nOhLGOw"
     }
   },
   "DSVT": {
-    "title": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
+    "title": "I Became a Legend after My 10 Year-Long Last Stand",
     "day": 5,
-    "time": "6:30 AM",
+    "time": "7:00 AM",
     "cover": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita-2265b7b2e0",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4vJHBdr",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00371671"
+    }
   },
   "XPCg": {
-    "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
+    "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
     "day": 5,
     "time": "9:30 AM",
     "cover": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season-9397331a045eb81394432d619173cf1f",
-    "streams": {},
-    "status": true
+    "streams": {
+      "HiDive": "https://www.hidive.com/season/36239"
+    }
   },
   "tLA4": {
-    "title": "Kore Kaite Shine",
+    "title": "Draw This, Then Die",
     "day": 5,
-    "time": "7:30 AM",
+    "time": "8:30 AM",
     "cover": "kore-kaite-shine-76b77e68f8cb45f60efec7c53ef6f06c",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/3SyFlaq",
+      "Netflix": "https://www.netflix.com/title/81787975"
+    }
   },
   "qKHd": {
-    "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+    "title": "The Frontier Lord Begins with Zero Subjects",
     "day": 5,
-    "time": "6:30 AM",
+    "time": "6:31 AM",
     "cover": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama-da2439840db3fe84fa0ed0a0e3064655",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4wsr65C",
+      "BiliBili": "https://www.bilibili.tv/en/media/2413170",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378124/the-frontier-lord-begins-with-zero-subjects"
+    }
   },
   "YKbB": {
-    "title": "Uchi no Otouto-domo ga Sumimasen",
-    "day": 5,
-    "time": "8:00 AM",
-    "cover": "uchi-no-otouto-domo-ga-sumimasen-0bf27550ff518b9e931429434a44ae02",
-    "streams": {},
-    "status": true
-  },
-  "LrTu": {
-    "title": "Ushiro no Shoumen Kamui-san",
+    "title": "Please Excuse My Younger Brothers",
     "day": 5,
     "time": "9:30 AM",
-    "cover": "ushiro-no-shoumen-kamui-san-538c46a2c849f7b2533d771ba88f579f",
-    "streams": {},
-    "status": true
-  },
-  "Hziq": {
-    "title": "Pan no Akachan (TV)",
-    "day": 5,
-    "time": "4:30 PM",
-    "cover": "pan-no-akachan-tv-38ddc4a4c49e0aa9e421c0e4c1f369bd",
-    "streams": {},
-    "status": true
+    "cover": "uchi-no-otouto-domo-ga-sumimasen-0bf27550ff518b9e931429434a44ae02",
+    "streams": {
+      "Apple": "https://apple.co/4gU1Ctc",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00371926"
+    }
   },
   "LtzL": {
-    "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "title": "Skeleton Knight in Another World",
     "day": 6,
     "time": "4:31 AM",
     "cover": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii-29e9126f6ab90224917b76c10ca23191",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/G8DHV7WJP/skeleton-knight-in-another-world"
+    }
   },
   "XGiF": {
     "title": "BLACK TORCH",
     "day": 6,
     "time": "7:00 AM",
-    "cover": "black-torch-21f5052369ca6001ab61b9165b7f6979",
-    "streams": {},
-    "status": true
+    "cover": "black-torch-ce6a1e71bed8eb358fb6d19a8e2e23f3",
+    "streams": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00377907/black-torch"
+    }
   },
   "PAmS": {
     "title": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
@@ -564,7 +580,7 @@
   "zXPM": {
     "title": "Grow Up Show: Himawari no Circus-dan",
     "day": 6,
-    "time": "8:00 AM",
+    "time": "9:00 AM",
     "cover": "grow-up-show-himawari-no-circus-dan-6eb53c92ff4f4ab4a9bdcee4a4c2c41e",
     "streams": {},
     "status": true
@@ -578,36 +594,40 @@
     "status": true
   },
   "4i1y": {
-    "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+    "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
     "day": 6,
     "time": "10:28 AM",
     "cover": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita-067c6664e313c812011247afd321d530",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378102/rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school"
+    }
   },
   "HEtL": {
-    "title": "Tenmaku no Jaadugar",
+    "title": "Jaadugar: A Witch in Mongolia",
     "day": 6,
     "time": "7:30 AM",
     "cover": "tenmaku-no-jaadugar-13bd71449bec6ecc2863bbc8c2566183",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378078/jaadugar-a-witch-in-mongolia"
+    }
   },
   "6Tzq": {
-    "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
     "day": 7,
     "time": "4:00 AM",
     "cover": "mushoku-tensei-iii-isekai-ittara-honki-dasu-f7856130558d1b4db896472f25abaeec",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/G24H1N3MP/mushoku-tensei-jobless-reincarnation"
+    }
   },
   "9O2I": {
-    "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
+    "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
     "day": 7,
     "time": "6:30 AM",
     "cover": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season-8bcd5c9908c3671f5470560620347505",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GNVHKN933/the-100-girlfriends-who-really-really-really-really-really-love-you"
+    }
   },
   "QVha": {
     "title": "Sparks of Tomorrow",
@@ -619,12 +639,13 @@
     }
   },
   "fTAB": {
-    "title": "Azur Lane: Bisoku Zenshin! Ni!!",
+    "title": "Anime AzurLane: Slow Ahead!",
     "day": 7,
     "time": "9:00 AM",
     "cover": "azur-lane-bisoku-zenshin-2-98a0819cbd400d06a40b9c55cb4a6ad1",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GQWH0MXPQ/anime-azurlane-slow-ahead"
+    }
   },
   "RspX": {
     "title": "Let's Go Kaikigumi",
@@ -635,26 +656,28 @@
     "status": true
   },
   "XP5K": {
-    "title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+    "title": "The World's Strongest Rearguard",
     "day": 7,
     "time": "6:00 AM",
     "cover": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha-aa44af64896783b69e7354862d98c793",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378122/the-worlds-strongest-rearguard"
+    }
   },
   "mOYA": {
-    "title": "Sayonara Lara",
+    "title": "Goodbye, Lara",
     "day": 7,
     "time": "8:30 AM",
     "cover": "sayonara-lara-74478edd700f7123ba5f358f13517028",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378059/goodbye-lara"
+    }
   },
   "ERNf": {
     "title": "Tetsunabe no Jan!",
     "day": 7,
     "time": "1:30 AM",
-    "cover": "tetsunabe-no-jan-45969b8cf05bee6d9be4c12ff3261a61",
+    "cover": "tetsunabe-no-jan-24744b84bf40cc28b8856d249e4f58df",
     "streams": {},
     "status": true
   },
@@ -669,11 +692,12 @@
     "status": true
   },
   "q1tS": {
-    "title": "Seihantai na Kimi to Boku 2nd Season",
+    "title": "You and I Are Polar Opposites",
     "day": 7,
     "time": "1:30 AM",
     "cover": "seihantai-na-kimi-to-boku-2nd-season-e132cb438e9a0b4139a277787bfc63fe",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00365624/you-and-i-are-polar-opposites"
+    }
   }
 }
