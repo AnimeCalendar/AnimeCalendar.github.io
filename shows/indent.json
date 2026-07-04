@@ -380,7 +380,8 @@
     "cover": "world-is-dancing-e58378842f65d9dc957528a01dfb98d1",
     "streams": {
       "Apple": "https://apple.co/449S9qa",
-      "HiDive": "https://www.hidive.com/season/36240"
+      "HiDive": "https://www.hidive.com/season/36240",
+      "YouTube": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0a5R_sTDWnpN19_TCZuW-E"
     }
   },
   "B7em": {
@@ -493,6 +494,7 @@
     "time": "9:30 AM",
     "cover": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season-9397331a045eb81394432d619173cf1f",
     "streams": {
+      "Apple": "https://apple.co/3SMAP8c",
       "HiDive": "https://www.hidive.com/season/36239"
     }
   },
@@ -503,7 +505,9 @@
     "cover": "kore-kaite-shine-76b77e68f8cb45f60efec7c53ef6f06c",
     "streams": {
       "Apple": "https://apple.co/3SyFlaq",
-      "Netflix": "https://www.netflix.com/title/81787975"
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00371656",
+      "Netflix": "https://www.netflix.com/title/81787975",
+      "YouTube": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0BnHSDgsrzHcX29LmyNwQ1"
     }
   },
   "qKHd": {
@@ -533,91 +537,115 @@
     "time": "4:31 AM",
     "cover": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii-29e9126f6ab90224917b76c10ca23191",
     "streams": {
-      "Crunchyroll": "https://www.crunchyroll.com/series/G8DHV7WJP/skeleton-knight-in-another-world"
+      "Apple": "https://apple.co/4y1yCFY",
+      "BiliBili": "https://www.bilibili.tv/en/media/2411543",
+      "Crunchyroll": "https://www.crunchyroll.com/series/G8DHV7WJP/skeleton-knight-in-another-world",
+      "YouTube": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl10pbg4dlS9ZUOYMzXWFK-W"
     }
   },
   "XGiF": {
     "title": "BLACK TORCH",
     "day": 6,
-    "time": "7:00 AM",
+    "time": "6:01 AM",
     "cover": "black-torch-ce6a1e71bed8eb358fb6d19a8e2e23f3",
     "streams": {
-      "Crunchyroll": "https://www.crunchyroll.com/series/GT00377907/black-torch"
+      "Apple": "https://apple.co/3QCViMd",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00377907/black-torch",
+      "YouTube": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3mx2NrmJSwHk-VtvhmGnZz"
     }
   },
   "PAmS": {
-    "title": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
+    "title": "The Duke's Son Claims He Won't Love Me, But Showers Me with Adoration",
     "day": 6,
-    "time": "9:30 AM",
+    "time": "10:00 AM",
     "cover": "kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu-b4dd3acbac13a444db3f73ef3880004d",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4wqagUH",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378118/the-dukes-son-claims-he-wont-love-me-but-showers-me-with-adoration"
+    }
   },
   "Azgw": {
-    "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+    "title": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
     "day": 6,
-    "time": "9:00 AM",
+    "time": "10:00 AM",
     "cover": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance-a454fb93ac7e192679b6be5441e53148",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4vf1wQx",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378090/magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance"
+    }
   },
   "K9E1": {
-    "title": "Iwamoto-senpai no Suisen",
+    "title": "Recommendations from Iwamoto-Senpai",
     "day": 6,
-    "time": "6:30 AM",
+    "time": "7:00 AM",
     "cover": "iwamoto-senpai-no-suisen-bc29f191d3fd7f9f0494f407d78c37d6",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/3SA22uS",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378096/recommendations-from-iwamoto-senpai"
+    }
   },
   "eXBc": {
-    "title": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+    "title": "Magilumiere Magical Girls Inc.",
     "day": 6,
-    "time": "8:55 AM",
+    "time": "10:25 AM",
     "cover": "kabushikigaisha-magi-lumi-re-2nd-season-d6cdf6f069f26c60a49878535820d305",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Amazon": "https://www.amazon.com/dp/B0H3LSX33Y",
+      "Apple": "https://apple.co/4y0FoMp"
+    }
   },
   "zXPM": {
-    "title": "Grow Up Show: Himawari no Circus-dan",
+    "title": "Grow Up Show",
     "day": 6,
     "time": "9:00 AM",
     "cover": "grow-up-show-himawari-no-circus-dan-6eb53c92ff4f4ab4a9bdcee4a4c2c41e",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4fjbWK4",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378063/grow-up-show"
+    }
   },
   "khq3": {
-    "title": "Oni no Hanayome",
+    "title": "The Ogre's Bride",
     "day": 6,
-    "time": "8:30 AM",
-    "cover": "oni-no-hanayome-ce12069eaa51479c8588160d64066ede",
-    "streams": {},
-    "status": true
+    "time": "9:00 AM",
+    "cover": "oni-no-hanayome-66a115c5553e32d390af121ef1e853db",
+    "streams": {
+      "Apple": "https://apple.co/4wpehZC",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378121"
+    }
   },
   "4i1y": {
     "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
     "day": 6,
-    "time": "10:28 AM",
+    "time": "11:10 AM",
     "cover": "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita-067c6664e313c812011247afd321d530",
     "streams": {
+      "Apple": "https://apple.co/4vGUx3H",
+      "BiliBili": "https://www.bilibili.tv/en/media/2414293",
       "Crunchyroll": "https://www.crunchyroll.com/series/GT00378102/rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school"
     }
   },
   "HEtL": {
     "title": "Jaadugar: A Witch in Mongolia",
     "day": 6,
-    "time": "7:30 AM",
+    "time": "9:00 AM",
     "cover": "tenmaku-no-jaadugar-13bd71449bec6ecc2863bbc8c2566183",
     "streams": {
+      "Apple": "https://apple.co/4ayYgbb",
       "Crunchyroll": "https://www.crunchyroll.com/series/GT00378078/jaadugar-a-witch-in-mongolia"
     }
   },
   "6Tzq": {
     "title": "Mushoku Tensei: Jobless Reincarnation",
-    "day": 7,
-    "time": "4:00 AM",
+    "day": 6,
+    "time": "4:01 AM",
     "cover": "mushoku-tensei-iii-isekai-ittara-honki-dasu-f7856130558d1b4db896472f25abaeec",
     "streams": {
-      "Crunchyroll": "https://www.crunchyroll.com/series/G24H1N3MP/mushoku-tensei-jobless-reincarnation"
+      "Apple": "https://apple.co/4wkMsSg",
+      "BiliBili": "https://www.bilibili.tv/en/media/2411609",
+      "Crunchyroll": "https://www.crunchyroll.com/series/G24H1N3MP/mushoku-tensei-jobless-reincarnation",
+      "Netflix": "https://www.netflix.com/title/80987039",
+      "YouTube": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1LMA6zhohDzfoV-XXFxS9Z"
     }
   },
   "9O2I": {
@@ -699,5 +727,15 @@
     "streams": {
       "Crunchyroll": "https://www.crunchyroll.com/series/GT00365624/you-and-i-are-polar-opposites"
     }
+  },
+  "JZRN": {
+    "title": "Nikke Nichi! Non Non Zenshou Kichi",
+    "day": 5,
+    "time": "4:00 AM",
+    "cover": "nikke-nichi-non-non-zenshou-kichi-d6c7be63403563cb46d5c990b8cab3cf",
+    "streams": {
+      "YouTube": "https://www.youtube.com/playlist?list=PL_Aa3W3E5aCF8v29AGTSRenP-0WzEUjaH"
+    },
+    "status": true
   }
 }
