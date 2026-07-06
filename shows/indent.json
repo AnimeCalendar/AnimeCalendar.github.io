@@ -660,37 +660,45 @@
     }
   },
   "ZFmv": {
-    "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
+    "title": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
     "day": 1,
-    "time": "10:00 AM",
+    "time": "7:30 AM",
     "cover": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu-8c519d6f76c8e4c58da0721ab47ca17d",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4vfgwOi",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00379182/a-livid-ladys-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires"
+    }
   },
   "Yg9N": {
     "title": "Grand Blue Dreaming",
     "day": 1,
-    "time": "8:00 AM",
+    "time": "8:30 AM",
     "cover": "grand-blue-3rd-season-ad878332a4376181e304f6e9c30ebe29",
     "streams": {
+      "Apple": "https://apple.co/4eRGpxi",
+      "BiliBili": "https://www.bilibili.tv/en/media/2414407",
       "Crunchyroll": "https://www.crunchyroll.com/series/GNVHKN94W/grand-blue-dreaming"
     }
   },
   "kU8R": {
-    "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+    "title": "The Insipid Prince's Furtive Grab for the Throne",
     "day": 1,
-    "time": "4:57 AM",
+    "time": "6:00 AM",
     "cover": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi-656a6ee1f4436ac5f7ac57570f676823",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4fh9TpT",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378119/the-insipid-princes-furtive-grab-for-the-throne"
+    }
   },
   "hGjd": {
-    "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+    "title": "Oh Boy, Was I Wrong About Her",
     "day": 1,
-    "time": "7:30 AM",
-    "cover": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken-b4efba96e1c2b935e3f5130d6fbe1a63",
-    "streams": {},
-    "status": true
+    "time": "8:00 AM",
+    "cover": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken-988bb7223c2cc3f4c4863f8f4e8f079f",
+    "streams": {
+      "Apple": "https://apple.co/4vjyE9z",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378120/oh-boy-was-i-wrong-about-her"
+    }
   },
   "sWHa": {
     "title": "Young Ladies Don't Play Fighting Games",
@@ -710,20 +718,26 @@
     "status": true
   },
   "sIvk": {
-    "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+    "title": "Love Unseen Beneath the Clear Night Sky",
     "day": 1,
-    "time": "5:00 AM",
+    "time": "5:30 AM",
     "cover": "toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita-03d9336a56f3c432a531d15711942198",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4vjXI0r",
+      "BiliBili": "https://www.bilibili.tv/en/media/2413250",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378087/love-unseen-beneath-the-clear-night-sky"
+    }
   },
   "eqgo": {
-    "title": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
+    "title": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
     "day": 1,
     "time": "7:30 AM",
     "cover": "suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita-674e0e0718c0e5d0bfcdea24fa252965",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4wtN2xb",
+      "BiliBili": "https://www.bilibili.tv/en/media/2413390",
+      "HiDive": "https://www.hidive.com/season/36241"
+    }
   },
   "pPLz": {
     "title": "Koukaku Kidoutai (TV)",
@@ -781,7 +795,9 @@
     "day": 3,
     "time": "8:15 AM",
     "cover": "katainaka-no-ossan-kensei-ni-naru-2nd-season-6b8863d2c46925d2d05773d6915c9df3",
-    "streams": {},
+    "streams": {
+      "Amazon": "https://www.amazon.com/dp/B0H1QXXRG1"
+    },
     "status": true
   },
   "DkAP": {
