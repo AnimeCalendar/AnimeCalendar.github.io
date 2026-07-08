@@ -2,7 +2,7 @@
   "Kyep": {
     "title": "Case Closed",
     "day": 6,
-    "time": "5:30 AM",
+    "time": "4:30 AM",
     "cover": "detective-conan-8d9a48d3dd",
     "streams": {
       "Apple": "https://apple.co/3JuGH1w",
@@ -102,7 +102,7 @@
   "zTms": {
     "title": "Digimon Beatbreak",
     "day": 6,
-    "time": "8:00 PM",
+    "time": "7:00 PM",
     "cover": "digimon-beatbreak-85d653c72879f4fb07e380e5b8fe56c4",
     "streams": {
       "Amazon": "https://amzn.to/4dwjwRc",
@@ -144,7 +144,7 @@
   "2a1N": {
     "title": "Star Detective Precure!",
     "day": 6,
-    "time": "6:30 PM",
+    "time": "5:30 PM",
     "cover": "meitantei-precure-7e5a1e4418385d3a27b5d2606be7e238",
     "streams": {
       "Amazon": "https://amzn.to/4ebqTh2",
@@ -161,7 +161,8 @@
       "Amazon": "https://amzn.to/4cemLue",
       "Apple": "https://apple.co/4e2i49k",
       "BiliBili": "https://www.bilibili.tv/en/media/2342192",
-      "Crunchyroll": "https://www.crunchyroll.com/series/GYZJ43JMR/that-time-i-got-reincarnated-as-a-slime"
+      "Crunchyroll": "https://www.crunchyroll.com/series/GYZJ43JMR/that-time-i-got-reincarnated-as-a-slime",
+      "YouTube": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3_YNRvXA7O89pNPsj1WIkb"
     }
   },
   "aqDI": {
@@ -247,7 +248,8 @@
     "streams": {
       "Apple": "https://apple.co/3CMHQyd",
       "BiliBili": "https://www.bilibili.tv/en/media/2342439",
-      "Crunchyroll": "https://www.crunchyroll.com/series/GRGG9798R/rezero--starting-life-in-another-world-"
+      "Crunchyroll": "https://www.crunchyroll.com/series/GRGG9798R/rezero--starting-life-in-another-world-",
+      "YouTube": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3RN7t6wesJqlUkSUN6FHKF"
     }
   },
   "25bR": {
@@ -266,7 +268,9 @@
     "day": 6,
     "time": "3:00 PM",
     "cover": "odekake-kozame-2nd-season-989132c0286e63fef1e3c2229c9909a7",
-    "streams": {},
+    "streams": {
+      "YouTube": "https://www.youtube.com/playlist?list=PLjrUB63ikczNcRItB8koEfoBfA7sjCZ-k"
+    },
     "status": true
   },
   "knhC": {
@@ -743,14 +747,14 @@
     }
   },
   "pPLz": {
-    "title": "Koukaku Kidoutai (TV)",
+    "title": "THE GHOST IN THE SHELL",
     "day": 2,
     "time": "7:30 AM",
     "cover": "koukaku-kidoutai-tv-c30e25325b4695d293957ab04fd00e03",
     "streams": {
-      "Amazon": "https://www.amazon.com/THE-GHOST-IN-SHELL/dp/B0H43Y5131"
-    },
-    "status": true
+      "Amazon": "https://www.amazon.com/THE-GHOST-IN-SHELL/dp/B0H43Y5131",
+      "Apple": "https://apple.co/4gokFf2"
+    }
   },
   "cljC": {
     "title": "I Want to Love You Till Your Dying Day",
@@ -795,30 +799,34 @@
     }
   },
   "bfzU": {
-    "title": "Katainaka no Ossan, Kensei ni Naru 2nd Season",
+    "title": "From Old Country Bumpkin to Master Swordsman",
     "day": 3,
     "time": "8:15 AM",
     "cover": "katainaka-no-ossan-kensei-ni-naru-2nd-season-6b8863d2c46925d2d05773d6915c9df3",
     "streams": {
-      "Amazon": "https://www.amazon.com/dp/B0H1QXXRG1"
-    },
-    "status": true
+      "Amazon": "https://www.amazon.com/dp/B0H1QXXRG1",
+      "Apple": "https://apple.co/4vkYqKL"
+    }
   },
   "DkAP": {
     "title": "Clevatess",
     "day": 3,
-    "time": "6:30 AM",
+    "time": "5:01 AM",
     "cover": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou-a7a80e94e630985a47a8663f283421c8",
     "streams": {
-      "Crunchyroll": "https://www.crunchyroll.com/series/G8DHV78ZM/clevatess"
+      "Apple": "https://apple.co/4wAUSVW",
+      "BiliBili": "https://www.bilibili.tv/en/media/2413934",
+      "Crunchyroll": "https://www.crunchyroll.com/series/G8DHV78ZM/clevatess",
+      "YouTube": "https://www.youtube.com/playlist?list=PLDvQscScOUXg"
     }
   },
   "PDL1": {
     "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
     "day": 3,
-    "time": "7:30 AM",
+    "time": "8:30 AM",
     "cover": "otomege-sekai-wa-mob-ni-kibishii-sekai-desu-2nd-season-cab45e0d7016e85522473f68a4fa2efe",
     "streams": {
+      "Apple": "https://apple.co/4wx4Rez",
       "BiliBili": "https://www.bilibili.tv/en/media/2413722",
       "Crunchyroll": "https://www.crunchyroll.com/series/G0XHWM0D3/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs"
     }
@@ -826,40 +834,47 @@
   "9vIs": {
     "title": "Saga of Tanya the Evil",
     "day": 3,
-    "time": "5:30 AM",
+    "time": "6:30 AM",
     "cover": "youjo-senki-ii-ffc33a55b698b8dee3cd7798a37a8004",
     "streams": {
-      "Crunchyroll": "https://www.crunchyroll.com/series/GR9P57W96/saga-of-tanya-the-evil"
+      "Crunchyroll": "https://www.crunchyroll.com/series/GR9P57W96/saga-of-tanya-the-evil",
+      "YouTube": "https://www.youtube.com/playlist?list=PLcWpc-sy22u4"
     }
   },
   "jfTJ": {
-    "title": "Dogul Wang",
+    "title": "Tomb Raider King",
     "day": 3,
-    "time": "9:15 AM",
+    "time": "10:20 AM",
     "cover": "dogul-wang-6b40a22efdc6bfd98e9123611d5cd359",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/44XPwrH",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378123/tomb-raider-king"
+    }
   },
   "aLOK": {
-    "title": "Ibitte Konai Gibo to Gishi",
+    "title": "My Stepmother and Stepsisters Aren't Wicked",
     "day": 3,
-    "time": "7:30 AM",
+    "time": "7:35 AM",
     "cover": "ibitte-konai-gibo-to-gishi-1fcc2f915ad47cc47d15df92da5bf2e6",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4faJlpf"
+    }
   },
   "9Q5w": {
     "title": "Perfect Addiction",
     "day": 3,
-    "time": "7:00 AM",
+    "time": "6:01 AM",
     "cover": "perfect-addiction-d52acb1ebfa282484e7758440e4ae074",
-    "streams": {},
+    "streams": {
+      "OceanVeil": "https://oceanveil.net/anime_titles/470",
+      "YouTube": "https://www.youtube.com/playlist?list=PLMRG8SXjiYaE"
+    },
     "status": true
   },
   "weUO": {
     "title": "Thunder 3",
     "day": 3,
-    "time": "8:45 AM",
+    "time": "9:30 AM",
     "cover": "thunder-3-fbbf3d581d81b8f6c5ddfbfa7b95c182",
     "streams": {
       "Netflix": "https://www.netflix.com/title/82736186"
@@ -870,8 +885,9 @@
     "day": 4,
     "time": "7:30 AM",
     "cover": "mobius-dust-1b3acca3604c1f0f905ca711a17e012f",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00379439/mebius-dust"
+    }
   },
   "ecPO": {
     "title": "Bananya: At-Home Party",
@@ -887,6 +903,7 @@
     "time": "10:00 AM",
     "cover": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-3112711915011dc17235c67eccdfea27",
     "streams": {
+      "BiliBili": "https://www.bilibili.tv/en/media/2413807",
       "Crunchyroll": "https://www.crunchyroll.com/series/GT00378066/hanaori-san-still-wants-to-fight-in-the-next-life"
     }
   },
@@ -895,7 +912,9 @@
     "day": 7,
     "time": "7:45 AM",
     "cover": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den-245d523c6b62610ec891529c53c7a366",
-    "streams": {},
+    "streams": {
+      "BiliBili": "https://www.bilibili.tv/en/media/2414053"
+    },
     "status": true
   }
 }
