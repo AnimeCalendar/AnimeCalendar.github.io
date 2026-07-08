@@ -702,10 +702,11 @@
   },
   "sWHa": {
     "title": "Young Ladies Don't Play Fighting Games",
-    "day": 1,
-    "time": "5:00 PM",
+    "day": 2,
+    "time": "4:31 AM",
     "cover": "tai-ari-deshita-ojou-sama-wa-kakutou-game-nante-shinai-e8c791981a3dd10a55b1bd8cf3cf447b",
     "streams": {
+      "Apple": "https://apple.co/4vTFZOq",
       "Crunchyroll": "https://www.crunchyroll.com/series/GT00362362/young-ladies-dont-play-fighting-games"
     }
   },
@@ -725,7 +726,8 @@
     "streams": {
       "Apple": "https://apple.co/4vjXI0r",
       "BiliBili": "https://www.bilibili.tv/en/media/2413250",
-      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378087/love-unseen-beneath-the-clear-night-sky"
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378087/love-unseen-beneath-the-clear-night-sky",
+      "YouTube": "https://www.youtube.com/playlist?list=PLTsUhR_H9p7U"
     }
   },
   "eqgo": {
@@ -736,7 +738,8 @@
     "streams": {
       "Apple": "https://apple.co/4wtN2xb",
       "BiliBili": "https://www.bilibili.tv/en/media/2413390",
-      "HiDive": "https://www.hidive.com/season/36241"
+      "HiDive": "https://www.hidive.com/season/36241",
+      "YouTube": "https://www.youtube.com/playlist?list=PLKPqX4UJsUOI"
     }
   },
   "pPLz": {
@@ -750,45 +753,46 @@
     "status": true
   },
   "cljC": {
-    "title": "Kimi ga Shinu made Koi wo Shitai",
+    "title": "I Want to Love You Till Your Dying Day",
     "day": 2,
-    "time": "5:30 AM",
+    "time": "5:31 AM",
     "cover": "kimi-ga-shinu-made-koi-wo-shitai-3348e5c45a38dfd1f62934494022a647",
-    "streams": {},
-    "status": true
-  },
-  "MfVY": {
-    "title": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
-    "day": 2,
-    "time": "5:55 AM",
-    "cover": "migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita-8cdf1ad0972b33e765590f87fdecf52c",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4y7To6P",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00374354/i-want-to-love-you-till-your-dying-day"
+    }
   },
   "cqjz": {
     "title": "Yoroi-Shinden Samurai Troopers",
     "day": 2,
-    "time": "7:30 AM",
+    "time": "8:00 AM",
     "cover": "yoroi-shin-den-samurai-troopers-part-2-7d1c402ff011b6245945f4b48506d937",
     "streams": {
+      "Apple": "https://apple.co/3LeviUD",
       "Crunchyroll": "https://www.crunchyroll.com/series/GT00367517/yoroi-shinden-samurai-troopers"
     }
   },
   "S5Ra": {
-    "title": "Tefuda ga Oome no Victoria",
+    "title": "Victoria of Many Faces",
     "day": 2,
-    "time": "8:00 AM",
+    "time": "8:01 AM",
     "cover": "tefuda-ga-oome-no-victoria-003aa54c92e1ea50ae6f88c7edb6cefe",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/4h5jP74",
+      "BiliBili": "https://www.bilibili.tv/en/media/2413460",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378126/victoria-of-many-faces",
+      "YouTube": "https://www.youtube.com/playlist?list=PLODXJn5su6ew"
+    }
   },
   "kvOL": {
-    "title": "Sora wa Akai Kawa no Hotori",
+    "title": "Sorahaakaikawanohotori",
     "day": 2,
-    "time": "9:35 AM",
+    "time": "10:40 AM",
     "cover": "sora-wa-akai-kawa-no-hotori-4391359efb7518859f19bf584124fd4f",
-    "streams": {},
-    "status": true
+    "streams": {
+      "Apple": "https://apple.co/3SFeQjF",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378099/red-river"
+    }
   },
   "bfzU": {
     "title": "Katainaka no Ossan, Kensei ni Naru 2nd Season",
@@ -815,6 +819,7 @@
     "time": "7:30 AM",
     "cover": "otomege-sekai-wa-mob-ni-kibishii-sekai-desu-2nd-season-cab45e0d7016e85522473f68a4fa2efe",
     "streams": {
+      "BiliBili": "https://www.bilibili.tv/en/media/2413722",
       "Crunchyroll": "https://www.crunchyroll.com/series/G0XHWM0D3/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs"
     }
   },
