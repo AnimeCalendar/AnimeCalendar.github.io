@@ -848,7 +848,9 @@
     "cover": "dogul-wang-6b40a22efdc6bfd98e9123611d5cd359",
     "streams": {
       "Apple": "https://apple.co/44XPwrH",
-      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378123/tomb-raider-king"
+      "BiliBili": "https://www.bilibili.tv/en/media/2412873",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378123/tomb-raider-king",
+      "YouTube": "https://www.youtube.com/playlist?list=PLRwxYv2koIzY"
     }
   },
   "aLOK": {
@@ -857,6 +859,7 @@
     "time": "7:35 AM",
     "cover": "ibitte-konai-gibo-to-gishi-1fcc2f915ad47cc47d15df92da5bf2e6",
     "streams": {
+      "Amazon": "https://www.amazon.com/My-Stepmother-Stepsisters-Arent-Wicked/dp/B0GYPBM8WL",
       "Apple": "https://apple.co/4faJlpf"
     }
   },
@@ -883,9 +886,10 @@
   "RAm1": {
     "title": "Mebius Dust",
     "day": 4,
-    "time": "7:30 AM",
+    "time": "8:00 AM",
     "cover": "mobius-dust-1b3acca3604c1f0f905ca711a17e012f",
     "streams": {
+      "Apple": "https://apple.co/3R88KYy",
       "Crunchyroll": "https://www.crunchyroll.com/series/GT00379439/mebius-dust"
     }
   },
@@ -916,5 +920,15 @@
       "BiliBili": "https://www.bilibili.tv/en/media/2414053"
     },
     "status": true
+  },
+  "XZgD": {
+    "title": "Smoking Behind the Supermarket with You",
+    "day": 4,
+    "time": "11:00 AM",
+    "cover": "super-no-ura-de-yani-suu-futari-44ba81fe5f299c02223435ab2a35321d",
+    "streams": {
+      "Apple": "https://apple.co/4uNgvSb",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378116/smoking-behind-the-supermarket-with-you"
+    }
   }
 }
