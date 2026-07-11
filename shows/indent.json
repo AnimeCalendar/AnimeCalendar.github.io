@@ -893,18 +893,10 @@
       "Crunchyroll": "https://www.crunchyroll.com/series/GT00379439/mebius-dust"
     }
   },
-  "ecPO": {
-    "title": "Bananya: At-Home Party",
-    "day": 4,
-    "time": "5:00 PM",
-    "cover": "bananya-at-home-party-ebfca09fd8c3f81b2a249741a2780f0f",
-    "streams": {},
-    "status": true
-  },
   "aCnx": {
     "title": "Hanaori-san Still Wants to Fight in the Next Life",
     "day": 6,
-    "time": "10:00 AM",
+    "time": "10:30 AM",
     "cover": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai-3112711915011dc17235c67eccdfea27",
     "streams": {
       "BiliBili": "https://www.bilibili.tv/en/media/2413807",
@@ -928,7 +920,8 @@
     "cover": "super-no-ura-de-yani-suu-futari-44ba81fe5f299c02223435ab2a35321d",
     "streams": {
       "Apple": "https://apple.co/4uNgvSb",
-      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378116/smoking-behind-the-supermarket-with-you"
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00378116/smoking-behind-the-supermarket-with-you",
+      "Netflix": "https://www.netflix.com/title/82757039"
     }
   }
 }
