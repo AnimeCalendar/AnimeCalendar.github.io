@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from json import dump
 from os import popen
 
@@ -19,7 +21,7 @@ def main():
         options=options,
     )
     driver.maximize_window()
-    driver.get("https://animeschedule.net/seasons/summer-2026")
+    driver.get("https://animeschedule.net/seasons/fall-2026")
     shows = {}
     show: WebElement
     for show in driver.find_element(By.CLASS_NAME, "shows-container").find_elements(

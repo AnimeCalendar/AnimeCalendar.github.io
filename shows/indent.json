@@ -915,7 +915,7 @@
     "streams": {
       "Apple": "https://apple.co/4vmnOQt",
       "BiliBili": "https://www.bilibili.tv/en/media/2414053",
-      "Crunchyroll": "https://www.crunchyroll.com/es/series/GT00371881/though-i-am-an-inept-villainess",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GT00371881",
       "Disney+": "https://www.disneyplus.com/browse/entity-79a3e335-2acc-408e-a942-1b0bac47d952",
       "Hulu": "https://wwww.hulu.com/series/8a91ef01-78f6-4c33-9566-841da5a9b053"
     }
@@ -923,7 +923,7 @@
   "XZgD": {
     "title": "Smoking Behind the Supermarket with You",
     "day": 4,
-    "time": "11:00 AM",
+    "time": "9:00 AM",
     "cover": "super-no-ura-de-yani-suu-futari-44ba81fe5f299c02223435ab2a35321d",
     "streams": {
       "Apple": "https://apple.co/4uNgvSb",
@@ -943,43 +943,35 @@
       "YouTube": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl10pbg4dlS9ZUOYMzXWFK-W"
     }
   },
-  "kKA5": {
-    "title": "Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025)",
-    "day": 4,
-    "time": "5:01 PM",
-    "cover": "yu-gi-oh-card-game-the-chronicles-2025-4bb5dbb4b3",
-    "streams": {
-      "YouTube": "https://www.youtube.com/playlist?list=PL6roPjQtdsM7n71HGmWNiKTE0UcOa9DxV"
-    },
-    "status": true
-  },
   "qilI": {
     "title": "The Elusive Samurai",
     "day": 5,
-    "time": "7:30 AM",
+    "time": "9:00 AM",
     "cover": "nige-jouzu-no-wakagimi-2nd-season-b289bd1a9ed70f90e606aabc1507d3dc",
     "streams": {
+      "Apple": "https://apple.co/3TMizMx",
       "Crunchyroll": "https://www.crunchyroll.com/series/GQWH0M19X/the-elusive-samurai"
     }
   },
-  "DqGO": {
-    "title": "Beyblade X",
-    "day": 5,
-    "time": "3:00 AM",
-    "cover": "beyblade-x-f02b468b74",
+  "PF6j": {
+    "title": "Gekkan! Nanmono Anime",
+    "day": 4,
+    "time": "8:00 PM",
+    "cover": "gekkan-nanmono-anime-7cda183b93",
     "streams": {
-      "Apple": "https://apple.co/4i07X3w",
-      "Hulu": "https://hulu.com/series/0e46c665-5191-407f-8dc5-e22a0095578c",
-      "Netflix": "https://netflix.com/title/81924739",
-      "YouTube": "https://youtube.com/playlist?list=PLfX0BhjZoHNlzLJSi0-CPYQXfV_JPWPUh"
-    }
-  },
-  "3zhR": {
-    "title": "Cyborg 009: Nemesis",
-    "day": 5,
-    "time": "5:00 PM",
-    "cover": "cyborg-009-nemesis-03370e51b9823b7298a5bf1c8ae8ce19",
-    "streams": {},
+      "YouTube": "https://www.youtube.com/playlist?list=PL3Dwj8f3BmgdEAR8bg6J6_oHilkr4H9YS"
+    },
     "status": true
+  },
+  "CTXR": {
+    "title": "BLEACH Thousand-Year Blood War",
+    "day": 6,
+    "time": "7:30 AM",
+    "cover": "bleach-sennen-kessen-hen-kashin-tan-f6f55ab4137d9ca1e73b7f8d74341751",
+    "streams": {
+      "Apple": "https://apple.co/4pD39X7",
+      "Disney+": "https://www.disneyplus.com/series/bleach-thousand-year-blood-war/4Afet1Q421gy",
+      "Hulu": "https://www.hulu.com/series/bleach-thousand-year-blood-war-02a3c8c0-4f1d-4610-bbb4-5b8e9468d7b1"
+    }
   }
 }
