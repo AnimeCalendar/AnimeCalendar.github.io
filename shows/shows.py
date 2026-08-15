@@ -67,9 +67,15 @@ class Shows:
                     time = time.strip()
                     if time[0] == "0":
                         time = time[1::]
-                    cover = show.find_element(
-                        By.CLASS_NAME, "show-poster"
-                    ).get_property("src")
+                    cover = str(
+                        show.find_element(By.CLASS_NAME, "show-poster").get_property(
+                            "srcset"
+                        )
+                    ).split(" ", maxsplit=1)[0]
+                    match = search(r"[\w-]+\.jpg", cover)
+                    start, end = match.span() if match else (0, 0)
+                    if end != 0:
+                        end -= 4
                     streams = {
                         stream.get_dom_attribute("title"): "https:"
                         + stream.get_dom_attribute("href")
@@ -81,7 +87,7 @@ class Shows:
                         ),
                         "day": num,
                         "time": time,
-                        "cover": str(cover)[77:-4],
+                        "cover": cover[start:end],
                         "streams": dict(
                             sorted(streams.items(), key=lambda show: show[0])
                         ),
