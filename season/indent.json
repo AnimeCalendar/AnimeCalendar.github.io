@@ -60,7 +60,7 @@
   },
   "ptjS": {
     "title": "Cardfight!! Vanguard: Divinez Unmei Seisen-hen",
-    "cover": "cardfight-vanguard-divinez-unmei-seisen-hen-2c3e872f913959a12c953e1508e044a4",
+    "cover": "cardfight-vanguard-divinez-unmei-seisen-hen-0986d76bbcc1ccb3047a5fd695ed2b80",
     "studio": "Kinema Citrus",
     "source": "Original",
     "genres": [
@@ -139,9 +139,19 @@
       "Superpower"
     ]
   },
+  "X3KN": {
+    "title": "FX Senshi Kurumi-chan",
+    "cover": "fx-senshi-kurumi-chan-907f277cabc9c2223e45c763bf766fad",
+    "studio": "Passione",
+    "source": "Manga",
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ]
+  },
   "n9z7": {
     "title": "Gensou Suikoden",
-    "cover": "gensou-suikoden-55d139c71ff0b6238b2543154d54148d",
+    "cover": "gensou-suikoden-a42018f73c24d0257b5e0b187c92a90e",
     "studio": "KONAMI animation",
     "source": "Video Game",
     "genres": [
@@ -265,7 +275,7 @@
   },
   "BXez": {
     "title": "Kusuriya no Hitorigoto 3rd Season",
-    "cover": "kusuriya-no-hitorigoto-zoku-hen-1b5aa5bb41",
+    "cover": "kusuriya-no-hitorigoto-zoku-hen-caf2bb3a7f2134aeda0fedbfe3ac7cd4",
     "studio": "OLM",
     "source": "Light Novel",
     "genres": [
@@ -287,7 +297,7 @@
   },
   "gLRK": {
     "title": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
-    "cover": "kyouran-reijou-nia-liston-byoujaku-reijou-ni-tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku-380f8e5c492a93d6c5924ca70391e53c",
+    "cover": "kyouran-reijou-nia-liston-byoujaku-reijou-ni-tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku-c6982704ba1240781249eb3ce9f7ae66",
     "studio": "KONAMI animation",
     "source": "Light Novel",
     "genres": [
@@ -310,7 +320,7 @@
   },
   "mHCS": {
     "title": "Magical\u2605Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
-    "cover": "magical-explorer-fb8312d5bbaf908388623a735a1d8727",
+    "cover": "magical-explorer-cd8999cdf8b2a095126d5f51637b8d32",
     "studio": "White Fox",
     "source": "Light Novel",
     "genres": [
@@ -346,11 +356,12 @@
   },
   "dBvZ": {
     "title": "Marronnier Oukoku no Shichinin no Kishi",
-    "cover": "marronnier-oukoku-no-shichinin-no-kishi-433c17c51357cb8e9fd1608bb119d381",
+    "cover": "marronnier-oukoku-no-shichinin-no-kishi-4d929c9d83fa4672c2bbc82f25aa7e2b",
     "studio": "J.C. Staff",
     "source": "Manga",
     "genres": [
       "Comedy",
+      "Historical",
       "Josei"
     ]
   },
@@ -380,8 +391,8 @@
     ]
   },
   "7yiG": {
-    "title": "Ojisan wa Kawaii Mono ga Osuki.",
-    "cover": "ojisan-wa-kawaii-mono-ga-osuki-4d63fd8ced",
+    "title": "Oji-san wa Kawaii Mono ga Osuki.",
+    "cover": "ojisan-wa-kawaii-mono-ga-osuki-a11333cb5321f0a6f1b0f2e95e1f6ae8",
     "studio": "LIDENFILMS",
     "source": "Web Manga",
     "genres": [
@@ -404,7 +415,7 @@
   },
   "Ivsh": {
     "title": "Pan Dorobou",
-    "cover": "pan-dorobou-b815c94b2e2d64792a598fa6f8bd60e6",
+    "cover": "pan-dorobou-f87dbd4b20fbce2f13c93caec6a56d31",
     "studio": "Shin-Ei Animation",
     "source": "Picture book",
     "genres": [
@@ -426,6 +437,18 @@
       "Supernatural"
     ]
   },
+  "Vi8X": {
+    "title": "Romelia Senki",
+    "cover": "romelia-senki-7f400f0243cbc7e78dcab1cb21cde9fa",
+    "studio": "Atra",
+    "source": "Light Novel",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Military"
+    ]
+  },
   "jgT7": {
     "title": "Sasaki to Pii-chan 2nd Season",
     "cover": "sasaki-to-pii-chan-2nd-season-ecbf8d9384d5f48e34663d22443512d1",
@@ -441,7 +464,7 @@
   },
   "MBB8": {
     "title": "Seitokai ni mo Ana wa Aru!",
-    "cover": "seitokai-ni-mo-ana-wa-aru-a760aebaf25b377853ebe72abcdf01eb",
+    "cover": "seitokai-ni-mo-ana-wa-aru-af8fef5a0b35bba4e31d5dc0b0ae5ca3",
     "studio": "Passione",
     "source": "4-koma Manga",
     "genres": [
@@ -464,7 +487,7 @@
   "s48F": {
     "title": "Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen",
     "cover": "shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen-c420a9b1d49338bfca69252f7ef5f58d",
-    "studio": "N/A",
+    "studio": "M.S.C",
     "source": "Manga",
     "genres": [
       "Comedy",
@@ -517,7 +540,7 @@
   },
   "htBn": {
     "title": "Tank Chair",
-    "cover": "tank-chair-1bbfbc03da1ef0bbf21ba80993dbd525",
+    "cover": "tank-chair-fd6b406cc6af39c3fe8cade3cc7b2ccd",
     "studio": "POLYGON PICTURES",
     "source": "Web Manga",
     "genres": [
@@ -644,7 +667,7 @@
   },
   "ZdQJ": {
     "title": "Vertex Force",
-    "cover": "vertex-force-1225fb77d46afa31a423843a0bcb39fb",
+    "cover": "vertex-force-77389e1d4f785f0dc509b75f50c1df35",
     "studio": "Shogakukan Music & Digital Entertainment",
     "source": "Original",
     "genres": [
